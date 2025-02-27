@@ -1,0 +1,5 @@
+#+TITLE: Dad: A Simple Ada Interpreter
+
+Dad is an interpreter (and maybe compiler) for the [[http://archive.adaic.com/standards/83lrm/html/ada_lrm.html#Top][Ada83 language specification]].
+It is *not* intended to be fully-featured.
+Instead, it focuses on being simple and complete enough for Guile to understand enough Ada for Gnatmake and other Ada tools to be built so GCC can compile its Ada frontend.
